@@ -10,8 +10,10 @@
 <br>
 
 <div align="center">  
-<img src="/Imgs/fast food.jpg" alt="imagem do projeto">
+  <img src="/Imgs/fast food.jpg" alt="Imagem do projeto" width="600" height="400">
 </div>
+
+
 
 
 
@@ -37,7 +39,7 @@ Calculadora basica usando HTML, CSS e JavaScript
 <br>
 
 <div align="center">  
-<img src="/Imgs/calculadora.png" alt="imagem do projeto">
+<img src="/Imgs/calculadora.png" alt="imagem do projeto" width="600" height="400">
 </div>
 
 <br>
@@ -58,6 +60,6 @@ Sistema de Gerenciamento de Estoque v1.0 é uma aplicação em C++ em fase Beta.
 <br>
 
 <div align="center">  
-<img src="/Imgs/sistema.png" alt="imagem do projeto">
+<img src="/Imgs/sistema.png" alt="imagem do projeto" width="600" height="400">
 </div>
 
