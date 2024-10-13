@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/TESTAR%20-00bfbf" style="height: 30px;">
   </a>
   <br><br>
-  <a href="https://github.com/lucssvittor/" target="_blank">
+  <a href="https://github.com/lucssvittor/Fast-Food" target="_blank">
     <img src="https://img.shields.io/badge/REPOSITORIO%20-00bfbf" style="height: 30px;">
   </a>
 </div>
