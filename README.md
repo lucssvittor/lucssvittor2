@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">  
-<img src="/Imgs/website.png" alt="imagem do projeto">
+<img src="/Imgs/fast food.jpg" alt="imagem do projeto">
 </div>
 
 
