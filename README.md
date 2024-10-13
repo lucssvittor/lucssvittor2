@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h3> Site </h3>
+<h3> Fast Food </h3>
  Em Breve, Site de Fast Food usando usando HTML, CSS e JavaScript
 </div>
 
