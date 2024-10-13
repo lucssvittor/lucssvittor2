@@ -39,7 +39,7 @@ Calculadora basica usando HTML, CSS e JavaScript
 <br>
 
 <div align="center">  
-<img src="/Imgs/calculadora.png" alt="imagem do projeto" width="600" height="400">
+<img src="/Imgs/calculadora.jpg" alt="imagem do projeto" width="600" height="400">
 </div>
 
 <br>
