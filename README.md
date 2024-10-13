@@ -24,11 +24,11 @@
   <h3>Fast Food</h3>
   Site de Fast Food usando HTML, CSS e JavaScript.
   <br><br>
-  <a href="https://lucssvittor.github.io/#/" target="_blank">
+  <a href="https://lucssvittor.github.io/Fast-Food//" target="_blank">
     <img src="https://img.shields.io/badge/TESTAR%20-00bfbf" style="height: 30px;">
   </a>
   <br><br>
-  <a href="https://github.com/lucssvittor/#" target="_blank">
+  <a href="https://github.com/lucssvittor/" target="_blank">
     <img src="https://img.shields.io/badge/REPOSITORIO%20-00bfbf" style="height: 30px;">
   </a>
 </div>
